@@ -44,3 +44,20 @@
 // console.log(sum(6,7))
 
 //O(1) => Constant Time
+//=========================Execution Context=========================
+
+//global Execution Context
+
+// var place = "Ahmed"
+// function test(){
+//     console.log(this.test)
+//     var place ="Mostafa";
+
+// }
+// test();//anothor execution context
+
+// console.log(window);//global context execution
+// console.log(this);// global context execution
+// console.log(window === this)//true
+
+//=========================Execution Context=========================
